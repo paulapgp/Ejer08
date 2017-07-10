@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Ejer08
 {
-    public class Class1
+    public class Calculadora
     {
+
     }
 }
